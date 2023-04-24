@@ -1,0 +1,13 @@
+// TODO: Lanjut untuk UPDATE dan DELETE Tag, sama UPDATE dan DELETE blogs, Nambah comment
+-> DELETE Tag V
+-> SOFT DELETE blog V
+-> RESTORE blog V
+-> SHOW WITH TRASHED (tampilkan semua blog, termasuk yang terkena soft delete) V
+-> UPDATE BLOG (sama imagenya)
+-> COMMENT Blog
+-> Email verification dengan mailkit
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Im5hZWxfZGF1Iiwicm9sZSI6IlJPTEVfQURNSU4iLCJuYmYiOjE2ODIyNTY4NDAsImV4cCI6MTY4MjI3NDg0MCwiaWF0IjoxNjgyMjU2ODQwLCJpc3MiOiJodHRwOi8vZGF1cmFuZ2dhLmNvbSIsImF1ZCI6Imh0dHA6Ly9kYXVyYW5nZ2EuY29tIn0.oDQPi8JUSIYMpn-wQ3QvupcmVYzm5j7jeNc2TxK5F9k
+
+
